@@ -1,0 +1,7 @@
+1. Data obtained from:  https://www.kaggle.com/sudalairajkumar/covid19-in-india
+2. Initially the data was in the form of .csv file which was imported to Tableau Public
+3. Various Tableau tools and features were used to create charts and finally dashboard was created
+4. The data is from 31-01-2020 to 27-04-2021
+
+
+- SHRESHTH
